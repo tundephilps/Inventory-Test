@@ -16,10 +16,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-   Login Details (Manager and Staff roles)
+# Login Details (Manager and Staff roles)
 
 Username: manager
+
 Password: password
 
 Username: staff
+
 Password: password
